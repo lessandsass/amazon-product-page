@@ -1,0 +1,59 @@
+/* 
+# Colors
+breadcrums: #565959
+links: #007185
+
+ */
+
+ body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    width: 300px;
+    height: auto;
+    box-shadow: 0px 2px 5px lightgray;
+} 
+
+.breadcrumb {
+    font-size: 12px;
+}
+
+.product-page {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 720px;
+    margin: 0 auto;
+}
+
+.left {
+    margin-right: 20px;
+}
+
+.right {
+    
+}
+
+.title {
+    font-size: 24px;
+}
+
+.author {
+    color: #007185;
+}
+
+.rating {
+    width: 100px;
+}
+
+.right-sub-title {
+    font-size: 16px;
+    font: bold;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
